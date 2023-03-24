@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Narendra Singh",
+      "Department": "IT"
+    },
+    {
+      "id": 2,
+      "name": "Vishal Bhatiya",
+      "Department": "Programming"
+    },
+    {
+      "id": 3,
+      "name": "Narendra12",
+      "Department": "Accounts"
+    }
+  ]
+}
